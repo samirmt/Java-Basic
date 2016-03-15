@@ -1,0 +1,7 @@
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/utils/EntityManagerFactoryWrapper.java
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/utils/Utils.java
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/service/PessoaService.java
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/app/CadastroPessoa.java
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/domain/Pessoa.java
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/service/dao/PessoaServiceDao.java
+/home/java02/formacao-jpa/src/main/java/br/com/dxt/formacao/service/jpa/PessoaServiceImpl.java

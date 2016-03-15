@@ -1,0 +1,7 @@
+br/com/dxt/formacao/utils/Utils.class
+br/com/dxt/formacao/utils/EntityManagerFactoryWrapper.class
+br/com/dxt/formacao/service/jpa/PessoaServiceImpl.class
+br/com/dxt/formacao/service/dao/PessoaServiceDao.class
+br/com/dxt/formacao/domain/Pessoa.class
+br/com/dxt/formacao/service/PessoaService.class
+br/com/dxt/formacao/app/CadastroPessoa.class
